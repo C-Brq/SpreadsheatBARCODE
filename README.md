@@ -5,7 +5,8 @@
 [2 Preview/Example](#2-preview-and-examples)
 
 # 1-Description of this project
-This project is a simple excel spreadsheet that can be used to put any text that can be translated into the format of the CODE 128 Barcode
+This project is a simple excel spreadsheet that can be used to put any text that can be translated into the format of the CODE 128 Barcode.
+
 This spreadsheet requires the CODE 128 Font, it's using some simple VBA Code into a excel Spreadsheet to use the specific format of the Barcode, without any VBA integration the Barcode wouldn't be able to be read by a scanner, The VBA Code is essential to the program.
 
 # 2-Preview and Examples
